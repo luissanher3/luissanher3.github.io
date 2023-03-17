@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Proyecto: página web de viajes"</title>
+   
+    <style>
+    h1{
+        color:rgb(112, 115, 21);
+    }
+        .pinpon{
+            
+            background-color:rgb(207, 207, 207);
+        }
+        .jaja{
+            background-color:rgb(235, 230, 235);
+        }
+        .jiji{
+            background-color:rgb(235, 230, 235);
+        
+        }
+    </style>
+</head>
+    <body>
+    
+        <h1 class="pinpon">Travel to Buenos Aires</h1>
+        <p><strong>Buenos Aires</strong>,también llamada <strong>Capital Federal</strong>, por ser la sede del <em>gobierno nacional</em>,es la capital y ciudad más poblada de la <strong>República Argentina</strong>. Esta metrópolis es una <em>ciudad autónoma</em> que constituye uno de los 24 distritos que conforman el país. </p>
+        <p>Buenos Aires es una <strong>ciudad cosmopolita</strong> y un importante <em>destino turístico</em>.Su compleja in
